@@ -1,0 +1,12 @@
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\obj\Debug\ConAppTestingExercise.csproj.CoreCompileInputs.cache
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\bin\Debug\ConAppTestingExercise.exe.config
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\bin\Debug\ConAppTestingExercise.exe
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\bin\Debug\ConAppTestingExercise.pdb
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\bin\Debug\ClassLibraryTestingEnv.dll
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\bin\Debug\nunit.framework.dll
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\bin\Debug\ClassLibraryTestingEnv.pdb
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\bin\Debug\nunit.framework.xml
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\obj\Debug\ConAppTestingExercise.csproj.CopyComplete
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\obj\Debug\ConAppTestingExercise.exe
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\obj\Debug\ConAppTestingExercise.pdb
+D:\.NET Training Daily work\day 45\ConAppTestingExercise\ConAppTestingExercise\obj\Debug\ConAppTestingExercise.csprojAssemblyReference.cache
